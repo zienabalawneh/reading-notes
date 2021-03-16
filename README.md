@@ -1,2 +1,2 @@
 
-[growth mindset](growth mindset.md)
+[growth mindset](growthMindset.md)
