@@ -13,4 +13,4 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 | Read 02a      |[Learning Markdown](read02a.md)            | 
 | Read 02b      |[Revision and the cloud ](read02b.md)      | 
 |growth mindset |[Lab02aLearning Markdown](growthMindset.md)| 
-| Read 03       | Text                                      | 
+| Read 03       |[Structure web pages with HTML](read03.md) | 
