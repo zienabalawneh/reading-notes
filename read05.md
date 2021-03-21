@@ -10,12 +10,19 @@
 
   “Else if” statements: this specifies a new test if the first condition is false.
 
-
-      ![Comparsion](compr.PNG)   
-
+![comparsin](compr.PNG)
 
 
-     
+![logical](logical.PNG)
+
+
+![AND](and.PNG)
+
+
+![OR](or.PNG)
+
+![NOT](not.PNG)
+
 
 
 
