@@ -10,25 +10,12 @@
 
   “Else if” statements: this specifies a new test if the first condition is false.
 
-  **Comparison Operators**
-| Operator  |        Description                 | 
-| :---      |          :----:                    |
-|   ==      |	equal to                           | 
-|   ===     |equal value and equal type          | 
-|   !=      |	not equal                          | 
-|   !==     |not equal value or not equal type	 | 
-|   >       |greater than	                       | 
-|   <       |less than	                         | 
-|   >=      |greater than or equal to	           | 
-|   <=      |less than or equal to               | 
+
+      ![Comparsion](compr.PNG)   
 
 
-**Logical Operators**
-| Operator  | Description  |        
-| :---      | :----:       |
-|   `&& `   |	and          | 
-|   ` \ `   |  or          | 
-|   `! `    |	not          |
+
+     
 
 
 
@@ -39,40 +26,8 @@
 
 
 
-**AND**
-|    A     |      B    |  `A&&B`|
-| :---     |    :----: |   ---: |
-|    T     |      T    |    T   |
-|    T     |      F    |    F   |
-|    F     |      T    |    F   |
-|    F     |      F    |    F   |
 
 
-
-
-
-
-
-
-
-
-**OR**
-|    A     |      B    |  RESULT|
-| :---     |    :----: |   ---: |
-|    T     |      T    |    T   |
-|    T     |      F    |    T   |
-|    F     |      T    |    T   |
-|    F     |      F    |    F   |
-
-
-
-
-
-**NOT**
-|    A     |   `!A`    |    
-| :---     |    :----: |   
-|    T     |      F    |
-|    F     |      T    |
 
 
 
