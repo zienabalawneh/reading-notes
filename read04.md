@@ -99,7 +99,7 @@ Expressions rely on things called operators; they allow programmers to create a 
 
 
 
-**Logical Operators**
+**Comparison Operators**
 | Operator  |        Description                 | 
 | :---      |          :----:                    |
 |   ==      |	equal to                           | 
@@ -113,7 +113,11 @@ Expressions rely on things called operators; they allow programmers to create a 
 	
 
 **JavaScript Comments**
+
+
 Single line comments start with //.
+
+
 Multi-line comments start with /* and end with */.
 
 

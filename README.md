@@ -16,3 +16,4 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 | Read 03       |[Structure web pages with HTML](read03.md) | 
 | Read 04       |[Programming with JavaScript](read04.md)   |
 | Read 05       |[Operators and Loops](read05.md)           |
+| Read 06       |[Design web pages with CSS](read06.md)     |
