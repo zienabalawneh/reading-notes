@@ -13,27 +13,34 @@
   **Comparison Operators**
 | Operator  |        Description                 | 
 | :---      |          :----:                    |
-|   ==      |	equal to                         | 
+|   ==      |	equal to                           | 
 |   ===     |equal value and equal type          | 
-|   !=      |	not equal                        | 
+|   !=      |	not equal                          | 
 |   !==     |not equal value or not equal type	 | 
-|   >       |greater than	                     | 
+|   >       |greater than	                       | 
 |   <       |less than	                         | 
-|   >=      |greater than or equal to	         | 
+|   >=      |greater than or equal to	           | 
 |   <=      |less than or equal to               | 
 
 
 **Logical Operators**
 | Operator  | Description  |        
 | :---      | :----:       |
-|   &&      |	and        | 
-|   ||      |   or         | 
-|   !       |	not        |
+|   `&& `   |	and          | 
+|   ` \ `   |  or          | 
+|   `! `    |	not          |
 
 
 
-**&&**
-|    A     |      B    |   A&&B |
+
+
+
+
+
+
+
+**AND**
+|    A     |      B    |  `A&&B`|
 | :---     |    :----: |   ---: |
 |    T     |      T    |    T   |
 |    T     |      F    |    F   |
@@ -42,7 +49,14 @@
 
 
 
- **||**
+
+
+
+
+
+
+
+**OR**
 |    A     |      B    |  RESULT|
 | :---     |    :----: |   ---: |
 |    T     |      T    |    T   |
@@ -51,8 +65,11 @@
 |    F     |      F    |    F   |
 
 
-**!**
-|    A     |     !A    |    
+
+
+
+**NOT**
+|    A     |   `!A`    |    
 | :---     |    :----: |   
 |    T     |      F    |
 |    F     |      T    |
