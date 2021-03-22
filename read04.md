@@ -122,7 +122,51 @@ Multi-line comments start with /* and end with */.
 
 
 
+#### **Functions**
++ A JavaScript function is a block of code designed to perform a particular task.
+
++ A JavaScript function is executed when "something" invokes it (calls it).
 
 
 
+`function name(parameter1, parameter2, parameter3) {`
+
+  `// code to be executed`
+
+`}`
+
++ A JavaScript function is defined with the function keyword, followed by a **name**, followed by parentheses ().
+
+
++ Function **names**can contain letters, digits, underscores, and dollar signs (same rules as variables).
+
+
++ The parentheses may include parameter names separated by commas:(**parameter1**, **parameter2**, ...)
+
+
++ The code to be executed, by the function, is placed inside curly brackets: {}
+
+#### parameters VS arguments
+
++ Function **parameters** are listed inside the parentheses () in the function definition.
+
+
++ Function **arguments** are the values received by the function when it is invoked.
+
+
+
+
+**Why Functions?**
+
+1. You can reuse code: Define the code once, and use it many times.
+
+2. You can use the same code many times with different arguments, to produce different results.
+
+
+**Function Return** 
+
+When JavaScript reaches a return statement, the function will stop executing.
+
+
+If the function was invoked from a statement, JavaScript will `return` to execute the code after the invoking statement.
 
