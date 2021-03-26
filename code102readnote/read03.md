@@ -42,6 +42,19 @@ An iframe is like a little window that has been cut into your page — and in th
   + Syntax
    
      `<iframe>`
+
+
+
+
+### Information About Your Pages
+
+
++ The  `<meta> ` element lives inside the  `<head> ` element and contains information about that web page.
+
++ It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is time sensitive, it can be set to expire.)
+
++ The  `<meta> ` element is an empty element so it does not have a closing tag. It uses attributes to carry the information.
+
  # Chapter 17- html5 layout
 
 + HTML5 is introducing a new set of elements that help define the structure of a page.
