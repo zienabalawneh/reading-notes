@@ -27,7 +27,9 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 
 
 #  **Code 201 Reading Notes**
-| Assignment    |                   link                                         | 
-| :---          |                  :----:                                        |
-| Read 01       |[Introductory HTML and JavaScript](code201readnote/class-01.md) | 
+
  
+
+| Assignment  |                      link                                         |
+| ----------- | ---------------------------------------------------------------   |
+|    Read 01  | [Introductory HTML and JavaScript](code201readnote/class-01.md)   |
