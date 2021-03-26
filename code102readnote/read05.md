@@ -36,10 +36,6 @@
 
 
 
-
-
-
-
 ## There are three types of loop: for, while, and  do ... while. Each repeats a set of statements.
 1. **for** - loops through a block of code a number of times
 
