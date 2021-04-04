@@ -38,3 +38,16 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 |    class-04 | [ HTML Links, JS Functions,CSS Layout](code201readnote/class-04.md)|
 |    class-05 | [HTML Images; CSS Color & Text](code201readnote/class-05.md)       |
 |    class-06 | [JS Object Literals; The DOM](code201readnote/class-06.md)         |
+|    class-07 | [Object-Oriented Programming, Tables](code201readnote/class-07.md) |
+|    class-08 | [ CSS Layout](code201readnote/class-08.md)                         |
+|    class-09 | [ Forms and JS Eventst](code201readnote/class-09.md)               |
+|    class-10 | [Debugging](code201readnote/class-10.md)                           |
+
+
+
+
+
+
+# **Reference**
+
+[w3schools](https://www.w3schools.com/default.asp)
