@@ -30,21 +30,23 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 
  
 
-| Assignment  |                      link                                          |
-| ----------- | ---------------------------------------------------------------    |
-|    class-01 | [Introductory HTML and JavaScript](code201readnote/class-01.md)    |
-|    class-02 | [ Basics of HTML, CSS & JS](code201readnote/class-02.md)           |
-|    class-03 | [ HTML Lists, CSS Boxes, JS](code201readnote/class-03.md)          |
-|    class-04 | [ HTML Links, JS Functions,CSS Layout](code201readnote/class-04.md)|
-|    class-05 | [HTML Images; CSS Color & Text](code201readnote/class-05.md)       |
-|    class-06 | [JS Object Literals; The DOM](code201readnote/class-06.md)         |
-|    class-07 | [Object-Oriented Programming, Tables](code201readnote/class-07.md) |
-|    class-08 | [ CSS Layout](code201readnote/class-08.md)                         |
-|    class-09 | [ Forms and JS Eventst](code201readnote/class-09.md)               |
-|    class-10 | [Debugging](code201readnote/class-10.md)                           |
-|    class-11 | [ Audio, Video, Images](code201readnote/class-11.md)               |
-
-
+| Assignment   |                      link                                          |
+| -----------  | ---------------------------------------------------------------    |
+|    class-01  | [Introductory HTML and JavaScript](code201readnote/class-01.md)    |
+|    class-02  | [ Basics of HTML, CSS & JS](code201readnote/class-02.md)           |
+|    class-03  | [ HTML Lists, CSS Boxes, JS](code201readnote/class-03.md)          |
+|    class-04  | [ HTML Links, JS Functions,CSS Layout](code201readnote/class-04.md)|
+|    class-05  | [HTML Images; CSS Color & Text](code201readnote/class-05.md)       |
+|    class-06  | [JS Object Literals; The DOM](code201readnote/class-06.md)         |
+|    class-07  | [Object-Oriented Programming, Tables](code201readnote/class-07.md) |
+|    class-08  | [ CSS Layout](code201readnote/class-08.md)                         |
+|    class-09  | [ Forms and JS Eventst](code201readnote/class-09.md)               |
+|    class-10  | [Debugging](code201readnote/class-10.md)                           |
+|    class-11  | [ Audio, Video, Images](code201readnote/class-11.md)               |
+|    class-12  | [Chart.js, Canvas](code201readnote/class-12.md)                    |
+|    class-13  | [ Local Storage](code201readnote/class-13.md)                      |
+|    class-14a | [Transforms,Transitions,Animations](code201readnote/class-14a.md)  |
+|    class-14b | [What Google Learned About Teams](code201readnote/class-14b.md)    |
 
 
 
