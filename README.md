@@ -45,8 +45,8 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 |    class-11  | [ Audio, Video, Images](code201readnote/class-11.md)               |
 |    class-12  | [Chart.js, Canvas](code201readnote/class-12.md)                    |
 |    class-13  | [ Local Storage](code201readnote/class-13.md)                      |
-|    class-14a | [Transforms,Transitions,Animations](code201readnote/class-14a.md)  |
-|    class-14b | [What Google Learned About Teams](code201readnote/class-14b.md)    |
+|    class-13b | [Transforms,Transitions,Animations](code201readnote/class-13b.md)  |
+|    class-14  | [What Google Learned About Teams](code201readnote/class-14.md)     |
 
 
 
