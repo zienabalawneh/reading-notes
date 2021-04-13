@@ -66,7 +66,5 @@ Calling `removeItem()` with a non-existent key will do nothing.
 
 + If you want to keep track programmatically of when the storage area changes, you can trap the storage event. The storage event is fired on the window object whenever `setItem()`, `removeItem()`, or `clear()` is called and actually changes something. For example, if you set an item to its existing value or call `clear()` when there are no named keys, the storage event will not fire, because nothing actually changed in the storage area.
 
-# FURTHER READING
-
 
 
