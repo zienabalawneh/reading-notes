@@ -1,12 +1,14 @@
 # reading-notes
 
 
-Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at **the Hashemite University**, and I love to learn everything related to my major and I strive to develop myself
+Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at ***the Hashemite University***, and I love to learn everything related to my major and I strive to develop myself
 
 
 # **Table of Contents :**
 
-# **Code 102 Reading Notes**
+
+## **Code 102 Reading Notes- Intro to Software Development**
+
 
 | Assignment    |                   link                                    | 
 | :---          |                  :----:                                   |
@@ -26,8 +28,7 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 
 
 
-#  **Code 201 Reading Notes**
-
+## **Code 201  Reading Notes- Foundations of Software Development**
  
 
 | Assignment   |                      link                                          |
@@ -50,6 +51,31 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 
 
 
+## **Code 301 Reading Notes- Intermediate Software Development**
+ 
+
+| Assignment   |                      link                                          |
+| -----------  | ---------------------------------------------------------------    |
+|    class-01  |                                                                    |
+
+
+
+
+
+## **Code 401 Reading Notes - Advanced Software Development**
+
+| Assignment   |                      link                                          |
+| -----------  | ---------------------------------------------------------------    |
+|    class-01  |                                                                    |
+
+
+
 # **Reference**
 
-[w3schools](https://www.w3schools.com/default.asp)
++  [w3schools](https://www.w3schools.com/default.asp)
+
++ [Stackoverflow](https://stackoverflow.com/)
+
+![image](https://i.pinimg.com/originals/94/bd/8c/94bd8ce9323b31164a02da507fca4aa5.gif)
+
+![writing](https://img.wattpad.com/cd476438fe70a4092ef8c09758368ae3fd274864/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f334a5a645634465f3557643575773d3d2d3431373136343536312e313562366433643363353839356464663231343731323538363736312e676966)
