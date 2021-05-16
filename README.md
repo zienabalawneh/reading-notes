@@ -56,8 +56,8 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 
 | Assignment   |                      link                                          |
 | -----------  | ---------------------------------------------------------------    |
-|    class-01  |                                                                    |
-
+|    class-01  |[ Intr to React and Components](code103readnote/class-01.md)        |
+|    class-02  | [State and Props](code103readnote/class-02.md)                     |
 
 
 
