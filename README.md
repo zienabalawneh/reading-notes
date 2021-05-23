@@ -69,7 +69,6 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 
 
 
-
 ## **Code 401 Reading Notes - Advanced Software Development**
 
 | Assignment   |                      link                                          |
