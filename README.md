@@ -66,8 +66,9 @@ Hello, I am *Zainab Alawneh*. I am 24 years old. I studied computer science at *
 |    class-08  | [ APIs](code103readnote/class-08.md)                               |
 |    class-09  | [FUNCTIONAL PROGRAMMING](code103readnote/class-09.md)              |
 |    class-10  | [In memory storage](code103readnote/class-10.md)                   |
-
-
+|    class-11  | [Authentication](code103readnote/class-11.md)                      |
+|    class-12  | [Mongo and Mongoose](code103readnote/class-12.md)                  |
+|    class-13  | [CRUD](code103readnote/class-13.md)                                |
 
 ## **Code 401 Reading Notes - Advanced Software Development**
 
